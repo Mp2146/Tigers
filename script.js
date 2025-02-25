@@ -31,6 +31,12 @@ const Questions = [
             {text: "other cats.", isCorrect:false},
            ]
     },
+    {
+        q: "Fill in the blank:Are tigers Endangerd  _____.",
+        a: [{text: "True.", isCorrect: True},
+            {text: "False.", isCorrect: false},
+           ]
+    },
     
     // add more questions here....
 ]; 
