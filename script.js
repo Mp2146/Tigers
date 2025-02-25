@@ -32,17 +32,11 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank:Are tigers Endangerd  _____.",
-        a: [{text: "True.", isCorrect: True},
-            {text: "False.", isCorrect: false},
-           ]
-    },
-    {
-        q: "Fill in the blank: What coused Tiger to go Endangerd _____.",
-        a: [{text: "Habbit loss.", isCorrect: ture},
-            {text: "ligalie poching.", isCorrect: true},
+        q: "Fill in the blank: tiger ar endangerd becuse _____.",
+        a: [{text: "Habbit loss.", isCorrect: true},
             {text: "humen activatiy.", isCorrect: true},
-            {text: "all of the above.", isCorrect:ture},
+            {text: "illigale poaching.", isCorrect: true},
+            {text: "All of the above.", isCorrect:true},
            ]
     },
     
