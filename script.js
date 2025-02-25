@@ -37,6 +37,14 @@ const Questions = [
             {text: "False.", isCorrect: false},
            ]
     },
+    {
+        q: "Fill in the blank: What coused Tiger to go Endangerd _____.",
+        a: [{text: "Habbit loss.", isCorrect: ture},
+            {text: "ligalie poching.", isCorrect: true},
+            {text: "humen activatiy.", isCorrect: true},
+            {text: "all of the above.", isCorrect:ture},
+           ]
+    },
     
     // add more questions here....
 ]; 
