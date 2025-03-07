@@ -94,7 +94,7 @@ function loadScore()
 {
     const totalScore = document.getElementById("score");
     // ToDo: finish this later...
-    totalScore.textContent = ` 🐯You scored ${score} out of ${Questions.length} 🐯`;
+    totalScore.textContent = ` 🐯You scored ${score} out of ${Questions.length}🐯`;
 
 }
 
