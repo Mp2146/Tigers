@@ -32,7 +32,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: tiger ar endangerd becuse _____.",
+        q: "Fill in the blank: tiger are endangerd becuse _____.",
         a: [{text: "Habbit loss.", isCorrect: true},
             {text: "humen activatiy.", isCorrect: true},
             {text: "illigale poaching.", isCorrect: true},

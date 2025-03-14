@@ -2,7 +2,7 @@ html {
     color:black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
-    background-image: url("images/evergreen.jpeg");
+    background-image: url("images/tigerface.jpg" )
 }
 
 body {
@@ -57,7 +57,7 @@ section {
 }
 
 a {
-    color: white;
+    color: rgb(185, 71, 71);
     text-decoration: none;
     font: bold 14px "Arial Black", Gadget, sans-serif;
 }
